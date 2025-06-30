@@ -1,0 +1,61 @@
+.title{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: violet;
+}
+.tagline{
+  text-align: center;
+  font-style: italic;
+  color:burlywood;
+}
+.whole{
+  background-color: rgb(114, 77, 77);
+}
+.specialties{
+  padding: 40px;
+
+}
+.Special{
+  color: rgb(212, 137, 16);
+}
+.specialties ul{
+  list-style:none;
+  color: beige;
+}
+.specialties li{
+  border-left: 2px solid salmon;
+  padding:10Px
+}
+
+.featured{
+  text-align: center;
+  color:rgb(75, 207, 165);
+  padding-bottom: 12px;
+}
+.dishes{
+  display:flex;
+  justify-content: space-around;
+  gap:20px;
+}
+.food{
+  background-color: rgb(37, 34, 34);
+  border-radius: 15px;
+  padding: 50px;
+  text-align: center;
+  width: 170px;
+}
+.food img{
+  object-fit: cover;
+  width: 170px;
+  height:170px
+
+}
+.food h4{
+  color: rgb(206, 141, 45);
+  font-style: oblique;
+}
+.food p{
+  color: white;
+  font-size: 10px;
+}
+  
